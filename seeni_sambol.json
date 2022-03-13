@@ -1,0 +1,25 @@
+{
+  "name":"Seeni Sambol",
+  "ingredients":{
+    "1":{
+      "quantity":1,
+      "units":"cup",
+      "item":"paste"
+    },
+    "2":{
+      "quantity":1,
+      "units":"cup",
+      "item":"thing"
+    }
+  },
+  "procedure":{
+    "1":"do a thing",
+    "2":"another thing"
+  },
+  "notes":{
+    
+  },
+  "Photos":{
+    
+  }
+}
