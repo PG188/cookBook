@@ -1,0 +1,57 @@
+{
+  "name":"Seeni Sambol",
+  "ingredients":{
+    "1":{
+      "quantity":0.5,
+      "units":"cup",
+      "item":"Tamrind Juice"
+    },
+    "2":{
+      "quantity":1,
+      "units":"kg",
+      "item":"Onions",
+      "note": "Red onions prefered"
+    },
+    "3":{
+      "quantity":5,
+      "units":"Tbsp",
+      "item":"Oil"
+      "note": "I like olive oil"
+    },
+    "4":{
+      "quantity":5,
+      "units":"pods",
+      "item":"Cardamom"
+    },
+    "5":{
+      "quantity":6,
+      "units":"leaves",
+      "item":"Curry Leaves"
+    },
+    "6":{
+      "quantity":2,
+      "units":"inch",
+      "item":"Pandan Leaves",
+      "note": "these are not readily available so you can substitute it with a few more curry leaves"
+    },
+    "7":{
+      "quantity":1,
+      "units":"Tbsp",
+      "item":"Red chilli powder"
+    },
+    "8":{
+      "quantity":1,
+      "units":"Tsp",
+      "item":"Salt",
+      "note" : "to taste"
+    }
+  },
+  "procedure":{
+    "1":"do a thing",
+    "2":"another thing"
+  },
+  "References":{
+    "1": "https://www.islandsmile.org/seeni-sambol-spicy-onion-relish/",
+    "2": "https://www.196flavors.com/sri-lanka-seeni-sambol/"
+  }
+}
